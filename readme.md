@@ -1,6 +1,6 @@
   Original Version: https://forums.alliedmods.net/showthread.php?t=235332
   
-    				 [Dragon Ball Mod]
+    			 [Dragon Ball Mod]
 				
 				** Description of Mod: 
 	      Each character has a power and has a different Transformation and which 
