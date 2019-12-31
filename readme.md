@@ -1,4 +1,4 @@
-  Original Version: https://forums.alliedmods.net/showthread.php?t=235332
+  Latest stable Version: https://forums.alliedmods.net/showthread.php?t=235332
   
   1.5 Beta Resources: https://www.dropbox.com/s/x9xuq1z3z6658gw/Dragon%20Ball%20Mod%201.5%20%28Resources%20File%29.zip?dl=0
   
