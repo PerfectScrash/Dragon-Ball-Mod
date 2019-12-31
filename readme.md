@@ -1,4 +1,5 @@
   Original Version: https://forums.alliedmods.net/showthread.php?t=235332
+  1.5 Beta Resources: https://www.dropbox.com/s/x9xuq1z3z6658gw/Dragon%20Ball%20Mod%201.5%20%28Resources%20File%29.zip?dl=0
   
     			 [Dragon Ball Mod]
 				
@@ -21,7 +22,7 @@
 			- Transformations and Attacks :
 			Super Saiajin : Unleash a Simple Ki - Blast
 			Super Saiajin 2 : Unleash an Garlic Gun
-			Super Saiajin 3 : Unleash a Final Flash
+			Super Saiajin Blue : Unleash a Final Flash
 			Super Saiajin 4 : Unleash a Final Shine Attack
 		
 		* Gohan (Teen): 
@@ -118,4 +119,5 @@
 			* DBZ tag changed to DBM 
 			* Added Omega Shenron Sounds
 			* Added Frieza's Golden Form
+			* Changed Vegeta SSJ3 to Vegeta SSJ Blue
 			* Power up description updated on lang (Lang Updated)
