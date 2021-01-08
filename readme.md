@@ -3,7 +3,7 @@
 - Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A8RJPHR3T8P6Y
 
 ## Download link:  
-  Latest stable Version: https://forums.alliedmods.net/showthread.php?t=235332
+  Latest stable Version: https://forums.alliedmods.net/showthread.php?t=235332 <br/>
   1.5 Beta Resources: https://www.dropbox.com/s/x9xuq1z3z6658gw/Dragon%20Ball%20Mod%201.5%20%28Resources%20File%29.zip?dl=0
   
     			 [Dragon Ball Mod]
